@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fiqih Muhammad Haekal Rosyadi_1202154123_Modul1</string>
+    <string name="label_eatbus">EatBus</string>
+    <string name="label_abnormal">Abnormal</string>
+    <string name="eatbus_message">Jangan Disini Makan Malamnya! Uang Kamu Tidak Cukup.Biar Aku Aja</string>
+    <string name="abnormal_message">Disini Aja Makan Malamnya!</string>
+</resources>
